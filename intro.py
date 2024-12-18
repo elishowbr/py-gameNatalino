@@ -61,5 +61,3 @@ A chave para o aprendizado é a persistência e humildade nos estudos!
                 print("Entrada inválida.")
                 time.sleep(1)
                 clear()
-
-introGame()
