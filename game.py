@@ -22,8 +22,6 @@ Hoje teremos {listaDeCriancas.__len__()} crianças para a análise.
                 time.sleep(1)
                 print(f'Idade: {criancaRestante["idade"]}')
                 time.sleep(1)
-                print(f'Nota de comportamento: {criancaRestante["nota_comportamento"]}')
-                time.sleep(1)
                 print(f'Cartinha: {criancaRestante["cartinha"]}\n')
                 time.sleep(1)
                 decisao = input("Essa criança merece presente? (s/n) ").lower()
