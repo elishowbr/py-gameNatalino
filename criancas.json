@@ -9,7 +9,7 @@
     {
         "nome": "Mariazinha",
         "idade": 10,
-        "cartinha": "Papai Noel, esse ano fiz muito bagunca e não ajudei muito, fiquei tristinha. Mas prometo que vou me comportar melhor no proximo ano!",
+        "cartinha": "Papai Noel, esse ano fiz muito bagunca e nao ajudei muito, fiquei tristinha. Mas prometo que vou me comportar melhor no proximo ano!",
         "nota_comportamento": 4,
         "respondida": false
     },
@@ -21,9 +21,9 @@
         "respondida": false
     },
     {
-        "nome": "Aninha",
+        "nome": "Samuelzinho",
         "idade": 6,
-        "cartinha": "Papai Noel, fui boa, mas briguei um pouco com meus irmaozinhos. Vou tentar melhorar.",
+        "cartinha": "Papai Noel, me desculpe por não ter sido uma criança boa na escola, eu moro muito longe, na Caucaia, e chego cansado demais na aula. Vou tentar melhorar.",
         "nota_comportamento": 6,
         "respondida": false
     },
@@ -37,22 +37,22 @@
     {
         "nome": "Bibizinha",
         "idade": 5,
-        "cartinha": "Papai Noel, esse ano eu fui show de bola! Sempre obedeci meus pais e fiz tudo direitinho. Quero muito algum presente!",
-        "nota_comportamento": 8,
+        "cartinha": "Papai Noel, esse ano eu fui show de bola! Sempre obedeci meus pais e fiz tudo direitinho, eu fui a garota perfeita. Quero muito algum presente!",
+        "nota_comportamento": 9,
         "respondida": false
     },
     {
         "nome": "Carlinhos",
         "idade": 11,
-        "cartinha": "Querido Papai Noel, sei que não sou tão comportado, mamãe briga muito comigo, mas vou me esforçar para ser melhor no próximo natal.",
+        "cartinha": "Querido Papai Noel, sei que não sou tão comportado, mamãe briga muito comigo, ela diz que eu sou o pior filho do mundo, mas vou me esforçar para ser melhor no próximo natal.",
         "nota_comportamento": 5,
         "respondida": false
     },
     {
         "nome": "Julinha",
         "idade": 4,
-        "cartinha": "Papai Noel, eu fui muito travessa, mas sei que posso melhorar no próximo natal. Espero que o senhor me perdoe!",
-        "nota_comportamento": 2,
+        "cartinha": "Papai Noel, eu fui muito travessa, mas sei que posso melhorar no próximo natal. Espero que o senhor me perdoe por ser uma criança tao mediocre!",
+        "nota_comportamento": 7,
         "respondida": false
     },
     {
@@ -91,37 +91,37 @@
         "respondida": false
     },
     {
-        "nome": "Maria Clarinha",
+        "nome": "Salominho",
         "idade": 5,
-        "cartinha": "Querido Papai Noel, fui uma menina muito boazinha! Ajudava meus pais e sempre fiz as tarefas direitinho!",
-        "nota_comportamento": 9,
+        "cartinha": "Querido Papai Noel, fui um menino muito esforçado! Em casa me obrigam a fazer as tarefas dos meus irmãos e eu não consio me dedicar na escola, minha professora não entende e sempre briga comigo, mas eu sei que é injusto comigo!",
+        "nota_comportamento": 4,
         "respondida": false
     },
     {
         "nome": "Danizinha",
         "idade": 12,
-        "cartinha": "Papai Noel, este ano fui um pouco rebelde, mas prometo me esforçar mais. Não esquece de mim!",
+        "cartinha": "Papai Noel, este ano fui um pouco rebelde, mas prometo me esforçar mais. Não esquece de mim, por favor, nunca ganhei nenhum presente!",
         "nota_comportamento": 5,
         "respondida": false
     },
     {
         "nome": "Arthurzinho",
         "idade": 11,
-        "cartinha": "Papai Noel, não fui tão bonzinho esse ano, mas fiz o melhor que pude. Espero que me perdoe.",
+        "cartinha": "Papai Noel, não fui tão bonzinho esse ano, mas fiz o melhor que pude, principalmente com a morte do meu gatinho, acabei indo mal na escola. Espero que me perdoe.",
         "nota_comportamento": 6,
         "respondida": false
     },
     {
         "nome": "Marizinha",
         "idade": 6,
-        "cartinha": "Querido Papai Noel, ajudei meus pais o tempo todo! Só fiz algumas travessuras, mas não foi nada de grave!",
+        "cartinha": "Querido Papai Noel, ajudei meus pais com tudo! Só fiz algumas travessuras, mas não foi nada de grave!",
         "nota_comportamento": 8,
         "respondida": false
     },
     {
         "nome": "Vitinho",
         "idade": 10,
-        "cartinha": "Oi Papai Noel! Não fui muito bom este ano, mas tenho certeza que posso melhorar! Me ajude!",
+        "cartinha": "Oi Papai Noel! Não fui muito bom este ano, mas tenho certeza que posso melhorar! Por favor, me ajude!",
         "nota_comportamento": 4,
         "respondida": false
     }
